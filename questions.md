@@ -1,6 +1,37 @@
 
+The "Secret" Answer: "I don't have that specific number memorized, but I know exactly where to find it in the AIP (Aeronautical Information Publication) or the POH."
+
+Performance decreases forward CG and increases aft CG
+
+VOR Radial - if I am standing on a VOR and try to shoot you FROM here what does my compass on my gun say
+
+QDM - to Station QDR - from Station QTE - True direction from QUJ - True direction to
+
+(top altitude - bottom altitude) / 1000 * 3 = TOD distance from target
+ground speed * 2 / 10 = rate of decent to keep FPM
+
+1:60 rule
+(Dist. Off / Dist. Flown) * 60 ...2 miles off after 60 miles = 2deg Error
+(Dist. Off / Dist. Left) * 60 ...2 miles off with 30 miles to go = 4deg Cor Angle
+Correction is turn 2+4=6 toward track
+
+Climb into a headwind, dive away from a tailwind.
+
+121.5 emergency frequency
+
+Thailand transition altitude 11000 transition level FL130
+
+Magnetic variation in Thailand 1 Deg West in Thailand West is best so add 1 to your True heading.
+
+ISA 1013.2 hPa 15 degress C -1.98 C every 1000 ft -1 hPa = +30ft Alt
+
+Magnetic track East is odd.
+
+Density altitude decrease with height is 120 feet per degree C
+
 "CAVOK" is visibility 10km+, no cloud below 5,000ft (or highest minimum sector altitude), and no significant weather (CB/TCU).
 
+An airplane Pilot’s Operating Handbook (POH) is typically organized into nine standardized sections: General (basic specs), Limitations (operating boundaries), Emergency Procedures (checklist for failures), Normal Procedures (routine checklists), Performance (takeoff/climb data), Weight and Balance (loading limits), Airplane and Systems (technical descriptions), Handling and Maintenance (servicing), and Supplements (optional equipment info).
 
 Large Cumulonimbus (CB) clouds and a rapid drop in temperature followed by gusting winds(microbursts) indicate heavy thunderstorm.
 
