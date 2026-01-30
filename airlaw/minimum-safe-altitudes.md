@@ -151,3 +151,53 @@ Best oral answer:
 - **EASA**: **SERA.3105** (minimum heights)
 - **Thailand**: CAAT regulations implementing **ICAO Annex 2** principles; local **AIP/NOTAMs**
 
+Whether spin and stall training counts as "aerobatic flight" depends entirely on the **intent** and the **maneuver** being performed. Here is the breakdown based on ICAO standards and common national regulations (like FAA/EASA).
+
+### 1. Does it count as Aerobatic Flight?
+
+The definition of aerobatic flight is generally an intentional maneuver involving an abrupt change in an aircraft's attitude, an abnormal attitude, or abnormal acceleration.
+
+* **Stall Training:** **No.** Standard stall recovery training is considered a "maneuver necessary to normal flight" and is a fundamental part of primary pilot training. It does not count as aerobatics.
+* **Spin Training:** **It depends.** * In many jurisdictions, a "normal" spin performed for training purposes is **not** classified as aerobatics if it is a requirement for a specific certificate (like a Flight Instructor rating).
+* However, if you are performing spins for recreation or "upset recovery" outside of a standard training syllabus, it often falls under the aerobatic umbrella because the aircraft enters an abnormal attitude.
+* **The Parachute Rule:** In the U.S. (FAA), if you are doing spins with a student for a certificate or rating, you don't need parachutes. If you are doing them for "fun" or with a passenger who isn't a student, you **must** wear parachutes, as it is then treated like aerobatics.
+
+
+
+---
+
+### 2. Minimum Heights for Training
+
+The height requirements are designed to ensure you have enough "air" to recover safely before hitting the ground or entering congested airspace.
+
+#### For Stalls and Spins (Training)
+
+While ICAO provides general safety guidelines, most national authorities set specific floors:
+
+* **General Rule:** Most flight schools and regulations require recovery to be completed no lower than **1,500 feet AGL** (Above Ground Level).
+* **Spin Specifics:** Because a spin loses altitude rapidly (often 500+ feet per turn), instructors typically start spins much higher—usually between **3,000 and 5,000 feet AGL**—to ensure recovery is finished well above the 1,500-foot safety floor.
+
+#### For Aerobatic Flight (Official)
+
+If the maneuver is officially classified as aerobatics, ICAO and national rules (like FAR 91.303) state you cannot fly:
+
+1. Over any **congested area**.
+2. Over an **open-air assembly** of persons.
+3. Within the lateral boundaries of the surface areas of **Class B, C, D, or E airspace** designated for an airport.
+4. Below an altitude of **1,500 feet AGL**.
+5. When flight visibility is less than **3 miles (5 km)**.
+
+---
+
+### Summary Table
+
+| Maneuver | Classified as Aerobatic? | Common Minimum Recovery Height |
+| --- | --- | --- |
+| **Stalls** | No | 1,500' AGL |
+| **Spins (Training)** | Usually No (exempted) | 1,500' AGL (Start much higher) |
+| **Spins (Recreational)** | Yes | 1,500' AGL |
+| **Loops/Rolls** | Yes | 1,500' AGL |
+
+**Important Note:** Always check your specific **Aircraft Flight Manual (AFM)**. Many aircraft are "Utility Category" and are certified for spins, but many others are "Normal Category" and spins are strictly prohibited.
+
+Would you like me to find the specific parachute requirements or "entry altitudes" for a particular type of aircraft?

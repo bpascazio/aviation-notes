@@ -673,3 +673,92 @@ Airworthiness requirements ensure that aircraft are maintained in a safe conditi
 ---
 
 *Note: This document provides general guidance for PPL practical exam oral preparation. Always refer to current regulations and aircraft-specific requirements for the most up-to-date and legally binding information. Thailand follows ICAO standards with CAAT-specific implementation.*
+
+When aviation regulations (ICAO, FAA, or EASA) state that **Weight and Balance (W&B) data** must be on board, they aren't just talking about a generic manual. They are referring to two very specific things: the **current physical state** of that specific airplane and the **calculation** for your specific flight.
+
+Here is exactly what you need to have in the cockpit to be legal.
+
+---
+
+### 1. The Permanent Record (The "Data")
+
+Every individual aircraft has a unique weight and center of gravity (CG). This is documented in the **Airplane Flight Manual (AFM)** or **Pilot’s Operating Handbook (POH)**. This section must include:
+
+* **The Licensed Empty Weight:** What the plane weighs with only fixed equipment and undrainable fluids.
+* **The Empty Weight Center of Gravity:** The exact balance point of the empty plane.
+* **The Equipment List:** A list of every piece of avionics, seat, or hardware installed. If a mechanic swaps a heavy old radio for a light GPS, they must update this paperwork.
+
+### 2. The Current Manifest (The "Loading")
+
+For the specific flight you are about to take, you must have a record showing that the aircraft is within limits. This is often called a **Load Manifest** or **Weight and Balance Sheet**. It must account for:
+
+* **Payload:** Actual weight of passengers and cargo.
+* **Fuel:** Not just the total weight, but how its weight changes the CG as it's burned.
+* **The Calculation:** Proof that the "Total Weight" is below the Maximum Gross Weight and that the "Total Moment" (the balance) falls within the safe "envelope."
+
+---
+
+### Does it have to be paper?
+
+In the modern era, "on board" has become more flexible:
+
+* **Electronic Flight Bags (EFB):** Apps like ForeFlight or Garmin Pilot are legally acceptable in most jurisdictions, provided the data is specific to your aircraft's tail number and is accessible during flight.
+* **Calculations:** You don't necessarily need a handwritten "scratchpad" if you have a digital output, but you must be able to show a ramp inspector how you determined the plane was safe to fly.
+
+### Why this is a "Must-Have"
+
+If a pilot skips this and the aircraft is **"Aft-Heavy"** (tail-heavy), it might be impossible to recover from a stall or spin—even if the pilot is perfectly trained. If it is **"Overweight,"** the wings may not produce enough lift to clear those 400-foot buildings we discussed earlier.
+
+> **Pro Tip:** In the "ARROW" acronym used by pilots to remember required documents (Airworthiness, Registration, Radio Station License, **Operating Handbook**, Weight and Balance), the "W" specifically refers to these updated, aircraft-specific balance sheets.
+
+---
+Maintaining airworthiness is a continuous process that goes far beyond just the Annual Inspection and Airworthiness Directives (ADs). While the **Annual** is the "big one," there is a suite of recurring "life-limited" and "system-specific" inspections required by the FAA (USA), CAAT (Thailand), and ICAO standards.
+
+Here is the checklist of "the other things" you must comply with:
+
+### 1. The "Aviation Vitals" (Instrument & System Checks)
+
+Most regulators follow a standard pattern for the equipment that keeps you safe in controlled airspace or emergencies:
+
+* **Altimeter & Static System:** Must be tested every **24 calendar months** if you fly under IFR (Instrument Flight Rules).
+* **Transponder:** Must be tested and inspected every **24 calendar months** (even for VFR flight if the transponder is required for the airspace).
+* **ELT (Emergency Locator Transmitter):** * **Inspection:** Required every **12 calendar months** (often done during the Annual).
+* **Battery:** Must be replaced after **1 cumulative hour of use** or when **50% of its useful life** has expired (the date is stamped on the battery).
+
+
+* **Compass Swing:** In Thailand (CAAT), a periodic check of the compass for deviation (and updated correction card) is specifically highlighted as a requirement for the renewal of the Certificate of Airworthiness.
+
+### 2. Time-Limited Components (The "Life Limits")
+
+Unlike an AD, which fixes a defect, these are "hard limits" set by the manufacturer:
+
+* **Life-Limited Parts:** Components like engine hoses, seatbelt webbing, or parachute canisters often have a "discard date" (e.g., 5 or 10 years) regardless of how many hours they’ve flown.
+* **Overhaul Cycles (TBO):** While private operators (Part 91) often treat "Time Between Overhaul" as a suggestion, commercial operators and certain CAAT-registered aircraft must strictly adhere to the manufacturer's hourly or calendar limits for engines and propellers.
+
+### 3. Usage-Based Inspections
+
+* **100-Hour Inspection:** If you carry passengers for hire or provide flight instruction in your aircraft, you must perform a complete inspection every 100 hours of flight time.
+* **VOR Equipment Check:** If flying IFR, the VOR must be checked every **30 days** for operational accuracy.
+
+### 4. Thailand-Specific (CAAT) Nuances
+
+The CAAT is very rigorous about the **Certificate of Airworthiness (C of A) Renewal**, which usually happens every **3 years** for standard aircraft. To pass, you typically need:
+
+* **Electrical Load Analysis (ELA):** A current report showing the aircraft's power draw.
+* **Weight & Balance Report:** CAAT requires a report based on an actual weighing or calculation performed within a specific period (often within **1 year** of the application).
+* **Maintenance Program (AMP):** You must show you are following an approved Aircraft Maintenance Program that merges all the manufacturer's tasks into one schedule.
+
+---
+
+### Comparison Summary
+
+| Requirement | Interval | Scope |
+| --- | --- | --- |
+| **Annual Inspection** | 12 Calendar Months | Full airframe/engine check |
+| **ELT Inspection** | 12 Calendar Months | Battery & Signal test |
+| **Transponder (91.413)** | 24 Calendar Months | Mode C/S accuracy |
+| **Altimeter/Static** | 24 Calendar Months | IFR accuracy |
+| **100-Hour** | Every 100 Flight Hours | Only for "For-Hire" operations |
+| **Weight & Balance** | Per CAAT renewal / 3 years | Physical weighing or data update |
+
+**Would you like a template for a "Pilot's Maintenance Log" to help track these overlapping dates?**
