@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "353cc5b6b63b7651",
+        "id": "5b9c0aa427733e01",
         "type": "tabs",
         "children": [
           {
-            "id": "10bd154ec907384d",
+            "id": "5ca94a944121dd78",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Aluminum/6061.md",
-                "bFile": "Aluminum/6061.md",
-                "aRef": ""
+                "file": "Aluminum/6061.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 6061  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "6061"
+            }
+          },
+          {
+            "id": "f3ae0712a25ef82e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aluminum/6061.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6061"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,6 +211,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10bd154ec907384d",
-  "lastOpenFiles": []
+  "active": "f3ae0712a25ef82e",
+  "lastOpenFiles": [
+    "Steel/4130 Chromoly.md",
+    "Aluminum/6061.md",
+    "Steel",
+    "cheatcheat.md",
+    "Cessna 210/c210.md",
+    "Cessna 210",
+    "Cessna 210/c210L-systems.md",
+    "Bushcat/Battery.md",
+    "Bushcat"
+  ]
 }
