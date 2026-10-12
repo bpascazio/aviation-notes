@@ -1,5 +1,7 @@
 # Shipped from factory with Forbatt:
 
+
+![[IMG_1006.jpg]]
 Forbatt
 AGM 12V Gel
 18AH
@@ -28,7 +30,7 @@ RR Battery YT20L-JS (12V 20AH) High CCA
 - **ความกว้าง (Width):** 86 มม. = **3.39 นิ้ว**
 - **ความสูง (Height):** 156 มม. = **6.14 นิ้ว**
 **13.9 lbs**
-
+![[7624.jpg]]
 # Recommended on Bushcat Forum
 https://www.batteriesplus.com/productdetails/battery/motorcycle/cyl10008
 Duracel
