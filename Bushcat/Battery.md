@@ -16,6 +16,7 @@ https://forbatt.co/shop/forbatt-batteries/gel-batteries-forbatt-backup-power/for
 https://www.spabattery.com/shop/product/sla-vrla-battery-sl12v-18ah
 (https://www.maxiscoot.com/en/product/battery-sla-bs-battery-sla12-19-12v-19ah-293724)]
 
+![[sl12-18-ver2025 1.pdf]]
 # Found in Thailand (a little tall tall and harder to source in TH)
 BS Battery SLA12-19
 **Dimensions (L × W × H):** 182 × 77 × 168 mm [[1]
