@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bushcat/Battery.md",
+                "file": "Bushcat/Battery/Battery.md",
                 "mode": "source",
                 "source": false
               },
@@ -198,11 +198,12 @@
   },
   "active": "e4f99379957e4e13",
   "lastOpenFiles": [
-    "Bushcat/7624.jpg",
-    "Bushcat/sl12-18-ver2025.pdf",
+    "Bushcat/Battery/7624.jpg",
+    "Bushcat/Battery/sl12-18-ver2025.pdf",
+    "Bushcat/Battery",
+    "Bushcat/Battery/IMG_1006.jpg",
+    "Bushcat/Battery/Battery.md",
     "Bushcat/sl12-18-ver2025 1.pdf",
-    "Bushcat/IMG_1006.jpg",
-    "Bushcat/Battery.md",
     "IMG_1006.heic",
     "Aluminum/6061.md",
     "Steel/4130 Chromoly.md",
