@@ -11,14 +11,14 @@
             "id": "e4f99379957e4e13",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Bushcat/Battery.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Battery"
             }
           }
         ]
@@ -198,10 +198,11 @@
   },
   "active": "e4f99379957e4e13",
   "lastOpenFiles": [
-    "sl12-18-ver2025 1.pdf",
-    "sl12-18-ver2025.pdf",
-    "IMG_1006.jpg",
-    "7624.jpg",
+    "Bushcat/7624.jpg",
+    "Bushcat/sl12-18-ver2025.pdf",
+    "Bushcat/sl12-18-ver2025 1.pdf",
+    "Bushcat/IMG_1006.jpg",
+    "Bushcat/Battery.md",
     "IMG_1006.heic",
     "Aluminum/6061.md",
     "Steel/4130 Chromoly.md",
@@ -210,7 +211,6 @@
     "Cessna 210/c210.md",
     "Cessna 210",
     "Cessna 210/c210L-systems.md",
-    "Bushcat/Battery.md",
     "Bushcat"
   ]
 }
