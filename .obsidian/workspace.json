@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aeromedical.md",
+                "file": "Bushcat/Battery/Battery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aeromedical"
+              "title": "Battery"
             }
           }
         ],
@@ -255,6 +255,16 @@
   },
   "active": "6409e3fe89d3862f",
   "lastOpenFiles": [
+    "Bushcat/Battery/IMG_1006.jpg",
+    "Bushcat/Battery/7624.jpg",
+    "Bushcat/Battery/sl12-18-ver2025.pdf",
+    "Bushcat/Battery/Battery.md",
+    "Aluminum/Strontium chromate primer.md",
+    "Aluminum/6061.md",
+    "Aluminum/2024.md",
+    "Bearhawk.md",
+    "cheatcheat.md",
+    "aeromedical.md",
     "Light Aircraft Construction/Bolt-together with Gussets.md",
     "Light Aircraft Construction/Aluminum C Channel.png",
     "Light Aircraft Construction/Welded Steel Tube Clusters.md",
@@ -263,16 +273,10 @@
     "Light Aircraft Construction",
     "Steel/Normalized AISI 4130.md",
     "Steel/4130 Chromoly.md",
-    "Bushcat/Battery/Battery.md",
-    "Bushcat/Battery/7624.jpg",
-    "Bushcat/Battery/sl12-18-ver2025.pdf",
     "Bushcat/Battery",
-    "Bushcat/Battery/IMG_1006.jpg",
     "Bushcat/sl12-18-ver2025 1.pdf",
     "IMG_1006.heic",
-    "Aluminum/6061.md",
     "Steel",
-    "cheatcheat.md",
     "Cessna 210/c210.md",
     "Cessna 210",
     "Cessna 210/c210L-systems.md",
